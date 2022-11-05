@@ -1,0 +1,33 @@
+
+body{
+  background-color:#EEF2E6;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+  color:  #66BFBF;
+}
+
+h2{
+  color:  #66BFBF;
+}
+
+h3{
+  color:  #3B9AE1;
+  font-size:25px;
+}
+
+.text{
+  font-size: 18px;
+}
+
+.phc{
+  font-size: 18px;
+}
